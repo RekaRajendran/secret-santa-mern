@@ -34,7 +34,7 @@ secret-santra/
 │
 ├── backend/
 ├── frontend/
-├── sampledata/
+├── sampledata/ #(Employees csv file and result file)
 ```
 
 ---
