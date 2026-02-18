@@ -27,14 +27,15 @@ Backend:
 
 ---
 
-## 📂 Project Structure
 
-```
-secret-santra/
-│
-├── backend/
-├── frontend/
-├── sampledata/ #(Employees csv file and result file)
-```
+## Setup Instructions
 
----
+### Backend
+cd backend
+npm install
+npm start
+
+### Frontend
+cd frontend
+npm install
+npm start
