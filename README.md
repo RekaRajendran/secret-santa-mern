@@ -29,11 +29,12 @@ Backend:
 
 ## 📂 Project Structure
 
+```
 secret-santra/
 │
 ├── backend/
 ├── frontend/
-|── sampledata/#(csvfile,sample result csv file)
-└── README.md
+├── sampledata/
+```
 
 ---
