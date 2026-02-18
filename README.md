@@ -33,7 +33,7 @@ secret-santra/
 │
 ├── backend/
 ├── frontend/
-|── sampledata/(csvfile,sample result csv file)
+|── sampledata/#(csvfile,sample result csv file)
 └── README.md
 
 ---
